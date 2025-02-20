@@ -32,7 +32,7 @@ For those that really want to know, I am soo glad I googled it now…. 😉
 
 The Python "six" package is a library designed to help developers write code that is compatible with both Python 2 and Python 3 by providing utility functions to bridge the differences between the two versions, allowing you to maintain a single codebase that works across both Python environments without major modifications
 
-Type “python .\roomba\getpassword.py”, hit ENTER and wait a few seconds. Now your Roomba should be detected by the script. From here on you should follow on-screen directions.
+Type “python .\roomba\getpassword.py <LOGIN> <PASSWORD>”, hit ENTER and wait a few seconds. Now your Roomba should be detected by the script. From here on you should follow on-screen directions.
 Make sure your Roomba is turned on and parked in the base, and then holding the “Home” button for most devices… apparently… However, for the i2 and S9 I believe you need to press the 2 buttons on either side of the Start button (Home and the Spot Clean) for a few seconds to hear a bleep or not, can’t remember the bleep it was 1am. 
 
 ![image](https://github.com/user-attachments/assets/db8e7f2b-a32e-433c-9380-803ec0eac126)
